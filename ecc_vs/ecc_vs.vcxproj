@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\c\ecc_core_autosim.cpp" />
+    <ClCompile Include="ecc_core_autosim.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{EBEEF4E1-2C8C-486C-A679-522F1EEBC7A5}</ProjectGuid>
